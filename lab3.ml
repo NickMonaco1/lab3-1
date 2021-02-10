@@ -1,3 +1,4 @@
+
 (* 
                               CS51 Lab 3
                     Polymorphism and record types
